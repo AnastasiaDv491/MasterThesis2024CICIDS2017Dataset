@@ -1,1 +1,1 @@
-# MasterThesis2024CICIDS2017Dataset
+# Master Thesis 2024: CICIDS 2017 Dataset
